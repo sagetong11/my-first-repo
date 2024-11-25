@@ -1,3 +1,2 @@
 # my-first-repo
-practice 1
-This is my first repository on Github!
+This is my first edit to the README.md file.
